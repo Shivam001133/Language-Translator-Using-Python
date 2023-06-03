@@ -1,0 +1,6 @@
+This file contains the source code for a Python application. The application uses the following .py files:
+->main.py: The main file where the GUI is built.
+->trans_code.py: The file that does the translation for code.
+->lg.py: The file that stores the list of languages.
+
+NOTE : To interact with this application, you must open the main.py file and run it.
