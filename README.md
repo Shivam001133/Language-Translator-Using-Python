@@ -12,8 +12,11 @@ Here are some of the features of the language translator:
 ->Open source
 
 Project screenshots:
+
 ![image](https://github.com/Shivam001133/Language-Translator-Using-Python/assets/95066609/4b61ea9b-30d7-47c7-a1c8-be66fe32e491)
+
 ![image](https://github.com/Shivam001133/Language-Translator-Using-Python/assets/95066609/d4d9777d-a4d4-4362-bc67-a5352b9f9e63)
+
 ![image](https://github.com/Shivam001133/Language-Translator-Using-Python/assets/95066609/ec2f0b8c-40b5-445a-bf1c-cb36905e8117)
 
 I hope this helps!
